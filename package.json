@@ -1,0 +1,21 @@
+{
+  "name": "coffeescript-vue-browserify-grunt",
+  "title": "coffeescript-vue-browserify-grunt",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Example repo for a coffeescript, vuejs, browserify and grunt stack",
+  "homepage": "https://brainsware.at",
+  "author": "Daniel Khalil <d.khalil@brainsware.at> (https://brainsware.at)",
+  "devDependencies": {
+    "coffeeify": "^2.1.0",
+    "grunt": "1.*",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-uglify": "2.*",
+    "vue": "2.4.2",
+    "vue-router": "^2.5.3",
+    "vue-template-compiler": "2.4.2",
+    "vueify": "^9.4.1"
+  },
+  "main": "web/coffee/init.coffee",
+  "repository": "https://github.com/DKhalil/coffeescript-vue-browserify-grunt.git"
+}
